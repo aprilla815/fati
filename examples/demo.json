@@ -1,0 +1,11 @@
+{
+  "slug": "demo-short",
+  "title": "İlk Otomatik Short",
+  "background_color": "0x111827",
+  "text_color": "white",
+  "scenes": [
+    {"text": "Bir fikirle başla", "duration": 2.0},
+    {"text": "Sahneleri JSON ile tanımla", "duration": 2.5},
+    {"text": "Dikey videoyu otomatik üret", "duration": 2.5}
+  ]
+}
